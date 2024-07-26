@@ -1,143 +1,143 @@
 [[Lz4]]
 arch = "aarch64"
-git-tree-sha1 = "71f504ed3b6f5f902e1e5f6495be9c3ecdb38986"
+git-tree-sha1 = "a24034165f2a27b0aa235c54e37b9f3109fa2440"
 os = "macos"
 
     [[Lz4.download]]
-    sha256 = "0ec19b587329e80c516ec157c4b7d583b4f0896b6cc285c804b4d8d94ace3af1"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.aarch64-apple-darwin.tar.gz"
+    sha256 = "87533900924ea9c8d56b45dcd084c58ea43d098144bb83b1f6df8a86672eefdc"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.aarch64-apple-darwin.tar.gz"
 [[Lz4]]
 arch = "aarch64"
-git-tree-sha1 = "555e104c4af8265c1447039faac51387542e951b"
+git-tree-sha1 = "3533c690a777346bf57c6b5e56b2eacea38f454a"
 libc = "glibc"
 os = "linux"
 
     [[Lz4.download]]
-    sha256 = "b498afe176be74ead9385e8e19973c54d72268dbe1afc75a35ee3ce6096e2b9b"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "ec7ad285e60ebaac17c05ec0549042f0d912795f33b8b3928808a0893e698ead"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.aarch64-linux-gnu.tar.gz"
 [[Lz4]]
 arch = "aarch64"
-git-tree-sha1 = "4892a2183f995ce477742e3656dd7d7c1c7c8201"
+git-tree-sha1 = "ca22c6e48794a40915d47d52c90a8ecc498d4a0c"
 libc = "musl"
 os = "linux"
 
     [[Lz4.download]]
-    sha256 = "3889b6ba8dbd569b01549bd8686cbe4eb8fb88f5912e2ab9cf0385d9d076f8f4"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.aarch64-linux-musl.tar.gz"
+    sha256 = "b9af785a1eef55de4404e3f10f2afbd50696e0b21eaa0130210d4cc35ea30d52"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.aarch64-linux-musl.tar.gz"
 [[Lz4]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "fc06bdabd5b3dacce69da938ccedcca7e7394ba8"
+git-tree-sha1 = "5dc43b146ad001e8db2e27ea4b153dda6079e150"
 libc = "glibc"
 os = "linux"
 
     [[Lz4.download]]
-    sha256 = "fcf09836de4fecdda7fd82ab1b523ae0bc7036f3b27364a460e6d0d940ffa901"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "9d1ae8fa1eaeef89eebb862b22ab821aa590184efae65836b1eabf5a863cf0f3"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.armv6l-linux-gnueabihf.tar.gz"
 [[Lz4]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "133ba3fd15800aa5201841132e1861eac9ca2706"
+git-tree-sha1 = "a61c3cccefb3b3a59600cc1a8ae6c1df8b9b00b6"
 libc = "musl"
 os = "linux"
 
     [[Lz4.download]]
-    sha256 = "6e18f9c598c460efe1430b9b209124956cad5c9b2bf3d3cc10c7c61e404c85e5"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "b4976951c0834322ae6b4ba903e783d389857c862fcd065c376f0425d43a4855"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.armv6l-linux-musleabihf.tar.gz"
 [[Lz4]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ef646d3fabef0e2d6681649358f378d82eb4ce64"
+git-tree-sha1 = "c17207075dc36b3ec5bbd3c90f7ce3217c310dfa"
 libc = "glibc"
 os = "linux"
 
     [[Lz4.download]]
-    sha256 = "641bbce713a9fe6c9d7027d7baf00246c5ecfc953561b0ae8a46380e6acdaa48"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "fea3ddd091366737d06edc4a0c66c0ad20b766ff33a0c1d8f6b484eae5037a93"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.armv7l-linux-gnueabihf.tar.gz"
 [[Lz4]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "024934a29c74076c79fe42f28a79c2539685f2aa"
+git-tree-sha1 = "629b5b21ed85787cf29c02f2a4c4062427fd2b0c"
 libc = "musl"
 os = "linux"
 
     [[Lz4.download]]
-    sha256 = "a8678981cb1140f17269e647f22aa65f02425e8962a8481ffd114c4fa52b7c07"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "c33e0c89f3a838b70f080da05f65670230c9185b7585bb76d0c77ea47a4628fe"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.armv7l-linux-musleabihf.tar.gz"
 [[Lz4]]
 arch = "i686"
-git-tree-sha1 = "06b97b41512d4d7bb848a369c6b083766f7effa2"
+git-tree-sha1 = "e2392562bc82239a49ebf08ffe3c6ce52ef97c26"
 libc = "glibc"
 os = "linux"
 
     [[Lz4.download]]
-    sha256 = "363ca23472589ab15674bcf60646a34ddbdadd03b2b4dfc3397ab5d2c169e67f"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.i686-linux-gnu.tar.gz"
+    sha256 = "575a5dd22af1da106b5ed804126a26245aff6f1997879d76c1d5522830a0a418"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.i686-linux-gnu.tar.gz"
 [[Lz4]]
 arch = "i686"
-git-tree-sha1 = "262e40850e6cca95a633c8e1a746f2ab87d765fc"
+git-tree-sha1 = "5ba3d2a9a46b3b9f057e52c3f9448cea2a93a784"
 libc = "musl"
 os = "linux"
 
     [[Lz4.download]]
-    sha256 = "c5da45621680aa788e2fd485da94eda820f480960c6e5507c6623515b5598e19"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.i686-linux-musl.tar.gz"
+    sha256 = "74e2cf9db5e8277faf5e7f534840665b3c4b7f731c1e25a72cfa9ab4c2e0b5c5"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.i686-linux-musl.tar.gz"
 [[Lz4]]
 arch = "i686"
-git-tree-sha1 = "113d208204e41803ab956e1e978d05a7506f6c3e"
+git-tree-sha1 = "f65be186bd7908a0999040b859554b2b42f3e1da"
 os = "windows"
 
     [[Lz4.download]]
-    sha256 = "362febbc0bdb7401ee5da600c6ece78ac8cc8618b910a477436f4d7a1da43d67"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.i686-w64-mingw32.tar.gz"
+    sha256 = "25107aedd69e0686f37ef6fdfdd100159d548926f1769f51d57a3904a57e4a71"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.i686-w64-mingw32.tar.gz"
 [[Lz4]]
 arch = "powerpc64le"
-git-tree-sha1 = "e5819219c54e5605311d9c6f4cb7fc74f0a8b14e"
+git-tree-sha1 = "fd83c5505019a3602e936179cbe21bfff593e4c8"
 libc = "glibc"
 os = "linux"
 
     [[Lz4.download]]
-    sha256 = "f3a6ff5661fa6b69d389efee5b1291aadcfc91de97d01e360056184bc919947f"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "241e26919e9da7f5d0f434165a647b86d5dd6e33d77935d8a9398b53d31bc6db"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.powerpc64le-linux-gnu.tar.gz"
 [[Lz4]]
 arch = "x86_64"
-git-tree-sha1 = "16ecd9cbc16d8f48e80458dcde194297f5e0c885"
+git-tree-sha1 = "763c77f297bd91a42bbadd7142efaf04913caff5"
 os = "macos"
 
     [[Lz4.download]]
-    sha256 = "2603f6f7fbe5bda12e6c9d24a3fb12acbb360996df8610dd402401a9eab3daa2"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "d821880a2ae4fa07fe322070ac07150b6529b4df456fc7ea8d522788a5b65ba2"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.x86_64-apple-darwin.tar.gz"
 [[Lz4]]
 arch = "x86_64"
-git-tree-sha1 = "6a331198675b2b4fe5590a116da30f4fe2f3a43f"
+git-tree-sha1 = "c08d60aa8806c689c2e68b0608c910df581206d9"
 libc = "glibc"
 os = "linux"
 
     [[Lz4.download]]
-    sha256 = "9eb457439e5c2c35eadda39e0d10d82a0310331d3043b5f2c64361a929056175"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "8f08e8ea5c64f07cbb5941388c299f7a8425f5a12c35b33db61aaa6e336c68e3"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.x86_64-linux-gnu.tar.gz"
 [[Lz4]]
 arch = "x86_64"
-git-tree-sha1 = "fe4d712c15347111a64c2274050de594caff8d0e"
+git-tree-sha1 = "01716b681fd0f99240a091d5114136dbc6749bdf"
 libc = "musl"
 os = "linux"
 
     [[Lz4.download]]
-    sha256 = "e41fc77b596f72af517855b0067d0a7227aff3a9aa4111fcf0bbe782c6a909b0"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.x86_64-linux-musl.tar.gz"
+    sha256 = "53bbac0ae09aa4435046f04abab86f64dd7bf997ac4aa424e537f7c4f6e9a40f"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.x86_64-linux-musl.tar.gz"
 [[Lz4]]
 arch = "x86_64"
-git-tree-sha1 = "cd6efb50a30d183940b1c13299af939c94a26139"
+git-tree-sha1 = "490614d37b36a029e8dd90abf63ef567c2909de0"
 os = "freebsd"
 
     [[Lz4.download]]
-    sha256 = "6cc004586695600c9aff869c24318ec4551b0bdd489d50d27b4fcaeea010cced"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "e8cb5961a0afdae41632277a8fd5d864f6fbc1ec8e7a4cc326864fdd031c83c4"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.x86_64-unknown-freebsd.tar.gz"
 [[Lz4]]
 arch = "x86_64"
-git-tree-sha1 = "f52f34f8f543ac438b5bb0a2dceb084c84bc0be4"
+git-tree-sha1 = "bd870d4b74198801399c4ef69f0d526bf4f28838"
 os = "windows"
 
     [[Lz4.download]]
-    sha256 = "b9bc9634f7f96596aa8d3c921246e235a2ab39ec3a1a57a62aa45222037e347c"
-    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.9.4+0/Lz4.v1.9.4.x86_64-w64-mingw32.tar.gz"
+    sha256 = "7fc88b117608377495593ccce7d8e55d8235ab0d20f0709e25715da24bd45846"
+    url = "https://github.com/JuliaBinaryWrappers/Lz4_jll.jl/releases/download/Lz4-v1.10.0+0/Lz4.v1.10.0.x86_64-w64-mingw32.tar.gz"
